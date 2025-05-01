@@ -1,2 +1,2 @@
 # Custom-Web-API-creation
-THis was for a Uni module
+This was made for my Web API uni module which asked us to create a API and website, both frontend and backend for an application
